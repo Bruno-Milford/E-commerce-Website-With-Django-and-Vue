@@ -16,7 +16,7 @@
             </tr>
           </thead>
           <tbody>
-            <CartItem v-for="item in cart.items" :key="item.product.id" :initialItem="item" />
+            <CartItem v-for="item in cart.items" :key="item.product.id" :initialItem="item" v-on:removeFromCart="removeFromCart" />
           </tbody>
         </table>
         <p v-else>You don't have any products in your cart</p>
@@ -46,6 +46,13 @@ export default {
   },
   mounted() {
     this.cart = this.$store.state.cart
+
+    document.title = 'Cart | Djackets'
+  },
+  methods: {
+    removeFromCart(item) {
+      this.cart.items = this.cart.items.filter(i => i.product.id !== item.product.id)
+    }
   },
   computed: {
     cartTotalLength() {
@@ -62,7 +69,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 .button {
   margin-top: 3%;
