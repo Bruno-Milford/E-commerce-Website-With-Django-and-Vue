@@ -73,7 +73,7 @@ export default {
 
 .button {
   margin-top: 3%;
-  margin-left: -9%;
+  margin-left: -7.5%;
 }
 
 </style>
