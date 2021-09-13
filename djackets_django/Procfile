@@ -1,0 +1,2 @@
+release: python3 manage.py migrate
+web: gunicorn djackets_django.wsgi --preload --log-file -
