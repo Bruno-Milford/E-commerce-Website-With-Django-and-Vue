@@ -33,4 +33,6 @@ python manage.py runserver -> esse comando executa a parte do back-end da aplica
 
 #### Front-end (já vou deixar aqui o comando de execução) <br />
 cd djackets_vue <br />
+#### Dependencias <br />
+npm i (npm install) <br />
 npm run serve -> esse comando executa a parte do front-end da aplicação
