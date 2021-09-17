@@ -23,7 +23,7 @@ A aplicação desenvolvida foi um e-commerce de jaquetas feito pelo canal do you
 ### Pré-requesitos 
  Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com).
  
-### clonando e rodando a aplicação 
+### Clonando e rodando a aplicação 
 git clone https://github.com/Bruno-Milford/E-commerce-Website-With-Django-and-Vue.git
 
 ### Acesse a pasta do projeto no seu terminal/cmd <br />
