@@ -4,19 +4,19 @@ A aplicação desenvolvida foi um e-commerce de jaquetas feito pelo canal do you
 
 ## Tecnologias utilizadas 
 ### Back-end 
-[Python](https://www.python.org)
-[Django](https://www.djangoproject.com)
-[Django Rest Framework](https://www.django-rest-framework.org)
-[Django Cors Headers](https://github.com/adamchainz/django-cors-headers)
-[Virtualenv](https://virtualenv.pypa.io/en/latest/#)
-[Djoser](https://djoser.readthedocs.io/en/latest/getting_started.html)
-[Pillow](https://pillow.readthedocs.io/en/stable/)
-[Stripe](https://stripe.com/docs/api)
+[Python](https://www.python.org) <br />
+[Django](https://www.djangoproject.com) <br />
+[Django Rest Framework](https://www.django-rest-framework.org) <br />
+[Django Cors Headers](https://github.com/adamchainz/django-cors-headers) <br />
+[Virtualenv](https://virtualenv.pypa.io/en/latest/#) <br />
+[Djoser](https://djoser.readthedocs.io/en/latest/getting_started.html) <br />
+[Pillow](https://pillow.readthedocs.io/en/stable/) <br />
+[Stripe](https://stripe.com/docs/api) <br />
 
 ### Front-end
-[Vue](https://vuejs.org)
-[Axios](https://www.npmjs.com/package/vue-axios)
-[Bulma](https://bulma.io)
+[Vue](https://vuejs.org) <br /> 
+[Axios](https://www.npmjs.com/package/vue-axios) <br /> 
+[Bulma](https://bulma.io) <br /> 
 [Bulma Toast](https://www.npmjs.com/package/bulma-toast)
 
 ## Executando o projeto
