@@ -28,9 +28,9 @@ git clone https://github.com/Bruno-Milford/E-commerce-Website-With-Django-and-Vu
 
 ### Acesse a pasta do projeto no seu terminal/cmd <br />
 #### Back-end (já vou deixar aqui o comando de execução) <br />
-cd djackets_django 
+cd djackets_django <br />
 python manage.py runserver -> esse comando executa a parte do back-end da aplicação
 
 #### Front-end (já vou deixar aqui o comando de execução) <br />
-cd djackets_vue
+cd djackets_vue <br />
 npm run serve -> esse comando executa a parte do front-end da aplicação
