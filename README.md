@@ -1,6 +1,6 @@
 # E-commerce djackets
 
-A aplicação desenvolvida foi um e-commerce de jaquetas feito pelo canal do youtube [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), e um canal gringo ou seja não e em português
+A aplicação desenvolvida foi um e-commerce de jaquetas feito pelo canal do youtube [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), e um canal gringo ou seja não é em português
 
 ## Tecnologias utilizadas 
 ### Back-end 
